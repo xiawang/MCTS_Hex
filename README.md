@@ -1,5 +1,6 @@
 # MCTS_Hex
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **__Code in the directory should not be used for Vanderbilt University Advanced AI course at any time.__**
 
 ### Monte Carlo Tree Search & MiniMax Search
