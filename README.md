@@ -5,7 +5,7 @@
 
 ### Monte Carlo Tree Search & MiniMax Search
 
-This project is the implementation of Hex game with both MCTS and MiniMax AI. The Monte Carlo Tree Search algorithm, specifically, the UCT algorithm is implemented according to Browne et al.'s [A Survey of Monte Carlo Tree Search Methods](http://mcts.ai/pubs/mcts-survey-master.pdf).
+This project is the implementation of Hex game with both MCTS and MiniMax AI. The Monte Carlo Tree Search algorithm, specifically, the UCT algorithm is implemented according to Browne et al.'s [A Survey of Monte Carlo Tree Search Methods](http://www.incompleteideas.net/609%20dropbox/other%20readings%20and%20resources/MCTS-survey.pdf).
 
 ### Special Notes
 
